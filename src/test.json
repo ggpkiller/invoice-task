@@ -1,0 +1,24 @@
+{
+  "buyername": "李思然",
+  "clerk": "张会计",
+  "detail": [
+    {
+      "fphxz": "0",
+      "goodsname": "停车费",
+      "hsbz": "1",
+      "spbm": "30405020202",
+      "tax": "0.06",
+      "taxamt": "2.0",
+      "taxfreeamt": "1.94",
+      "taxrate": "0.03"
+    }
+  ],
+  "email": "guogp_pc@126.com",
+  "invoicedate": "2018-11-02 10:31:11",
+  "kptype": "1",
+  "orderno": "1541125871188",
+  "phone": "13259516732",
+  "saleaddress": "宁夏回族自治区银川市金凤区宝湖中路宝湖福邸",
+  "salephone": "18595157043",
+  "saletaxnum": "339901999999142"
+}

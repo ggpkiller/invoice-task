@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: invoicetask
+  datasource:
+    url: jdbc:mysql://localhost/xcm?characterEncoding=UTF-8&autoReconnect=true&failOverReadOnly=false&useSSL=false&serverTimezone=UTC
+    username: xcm
+    password: xcm
+mybatis:
+  type-aliases-package: com.ggp.invoicetask.bean
+  configuration:
+    cache-enabled: true
+    lazy-loading-enabled: true
+    multiple-result-sets-enabled: true
+    use-column-label: true
+    default-executor-type: reuse
+    default-statement-timeout: 300
+    safe-row-bounds-enabled: true
+    safe-result-handler-enabled: true
+
+
+invoice-service-url: https://nnfpdev.jss.com.cn/shop/buyer/allow/cxfKp/cxfServerKpOrderSync.action
+
